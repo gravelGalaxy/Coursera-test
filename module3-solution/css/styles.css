@@ -1,0 +1,67 @@
+.navbar-brand{
+	padding: 25px;
+}
+.navbar-brand h1{
+	font-size: 1.5em;
+	text-align: left;
+	margin-top: -15px;
+	margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar{
+	margin: 0;
+}
+#header-nav{
+	background-color: #b2bbbe;
+	border-radius: 0;
+	border: 0;
+}
+#header-nav h1{
+	color: black;
+}
+#collapsable-nav{
+	text-align: left;
+}
+#nav-list{
+	text-align: center;
+}
+#nav-list a{
+	color: #373834;
+	font-size: 1.5em;
+}
+#nav-list a:hover{
+	background-color: #cad3c3;
+}
+#page-heading{
+	margin-bottom: 30px;
+}
+#Chicken{
+	background-color: #c0c4c3;
+	margin-bottom: 10px;
+}
+#Chicken-heading{
+	font-weight: bold;
+}
+#Beef{
+	background-color: #c0c4c3;
+	margin-bottom: 10px;
+}
+#Beef-heading{
+	font-weight: bold;
+}#Sushi{
+	background-color: #c0c4c3;
+	margin-bottom: 10px;
+}
+#Sushi-heading{
+	font-weight: bold;
+}
+.container{
+	width: 100%;
+}
+@media(max-width: 767px){
+	#main-content{
+		width: 80%;
+	}
+}
